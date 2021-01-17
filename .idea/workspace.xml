@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed43d49-d113-424c-83f2-cc82781f2305" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/my_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,23 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest for test.test_ewf">
+    <configuration name="pytest for test.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="my_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test.test_ewf" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="my_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,6 +62,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test.test_ewf" />
+        <item itemvalue="Python tests.pytest for test.test" />
         <item itemvalue="Python tests.pytest for test.test_ewf" />
       </list>
     </recent_temporary>
@@ -76,22 +92,22 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="424" y="77" key="CommitChangelistDialog2/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610896003231" />
-    <state width="1659" height="292" key="GridCell.Tab.0.bottom" timestamp="1610897114441">
+    <state width="1659" height="292" key="GridCell.Tab.0.bottom" timestamp="1610897879432">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="292" key="GridCell.Tab.0.bottom/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114441" />
-    <state width="1659" height="292" key="GridCell.Tab.0.center" timestamp="1610897114441">
+    <state width="1659" height="292" key="GridCell.Tab.0.bottom/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897879432" />
+    <state width="1659" height="292" key="GridCell.Tab.0.center" timestamp="1610897879431">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="292" key="GridCell.Tab.0.center/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114441" />
-    <state width="1659" height="292" key="GridCell.Tab.0.left" timestamp="1610897114440">
+    <state width="1659" height="292" key="GridCell.Tab.0.center/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897879431" />
+    <state width="1659" height="292" key="GridCell.Tab.0.left" timestamp="1610897879431">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="292" key="GridCell.Tab.0.left/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114440" />
-    <state width="1659" height="292" key="GridCell.Tab.0.right" timestamp="1610897114441">
+    <state width="1659" height="292" key="GridCell.Tab.0.left/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897879431" />
+    <state width="1659" height="292" key="GridCell.Tab.0.right" timestamp="1610897879431">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="292" key="GridCell.Tab.0.right/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114441" />
+    <state width="1659" height="292" key="GridCell.Tab.0.right/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897879431" />
     <state x="349" y="140" key="SettingsEditor" timestamp="1610897167162">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
