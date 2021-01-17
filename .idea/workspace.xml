@@ -1,17 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eed43d49-d113-424c-83f2-cc82781f2305" name="Default Changelist" comment="" />
+    <list default="true" id="eed43d49-d113-424c-83f2-cc82781f2305" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/my_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dz3" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="GitLabConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest for test.test_ewf" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="my_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_ewf&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test.test_ewf" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="add env">
@@ -29,26 +68,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="add env" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610897079712">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897079712" />
     <state x="424" y="77" key="CommitChangelistDialog2" timestamp="1610896003231">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="424" y="77" key="CommitChangelistDialog2/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610896003231" />
-    <state width="1659" height="292" key="GridCell.Tab.0.bottom" timestamp="1610895944197">
+    <state width="1659" height="292" key="GridCell.Tab.0.bottom" timestamp="1610897114441">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="292" key="GridCell.Tab.0.bottom/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610895944197" />
-    <state width="1659" height="292" key="GridCell.Tab.0.center" timestamp="1610895944196">
+    <state width="1659" height="292" key="GridCell.Tab.0.bottom/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114441" />
+    <state width="1659" height="292" key="GridCell.Tab.0.center" timestamp="1610897114441">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="292" key="GridCell.Tab.0.center/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610895944196" />
-    <state width="1659" height="292" key="GridCell.Tab.0.left" timestamp="1610895944195">
+    <state width="1659" height="292" key="GridCell.Tab.0.center/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114441" />
+    <state width="1659" height="292" key="GridCell.Tab.0.left" timestamp="1610897114440">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="292" key="GridCell.Tab.0.left/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610895944195" />
-    <state width="1659" height="292" key="GridCell.Tab.0.right" timestamp="1610895944196">
+    <state width="1659" height="292" key="GridCell.Tab.0.left/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114440" />
+    <state width="1659" height="292" key="GridCell.Tab.0.right" timestamp="1610897114441">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="292" key="GridCell.Tab.0.right/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610895944196" />
+    <state width="1659" height="292" key="GridCell.Tab.0.right/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114441" />
+    <state x="349" y="140" key="SettingsEditor" timestamp="1610897167162">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="349" y="140" key="SettingsEditor/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897167162" />
     <state x="440" y="241" key="Vcs.Push.Dialog.v2" timestamp="1610896005186">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
