@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27d3f839-4988-4150-8d57-65a51df6ca8b" name="Default Changelist" comment="">
+    <list default="true" id="eed43d49-d113-424c-83f2-cc82781f2305" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/my_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,221 +21,88 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dz3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1n1GPYTxeM8rHJnF9bYdHiI4rSQ" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest in dz2">
-    <configuration name="pytest for test_dictionary.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="pytest for test.test_ewf" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="my_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_dictionary.test&quot;" />
+      <option name="_new_target" value="&quot;test.test_ewf&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_dictionary.test_add_dict_item" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="my_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_dictionary.test_add_dict_item&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_dictionary.test_dict_length" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="my_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_dictionary.test_dict_length&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_dictionary.test_remove_dict_item" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="my_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_dictionary.test_remove_dict_item&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in dz2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="my_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/dz2&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in dz2" />
-        <item itemvalue="Python tests.pytest for test_dictionary.test_remove_dict_item" />
-        <item itemvalue="Python tests.pytest for test_dictionary.test_add_dict_item" />
-        <item itemvalue="Python tests.pytest for test_dictionary.test_dict_length" />
-        <item itemvalue="Python tests.pytest for test_dictionary.test" />
+        <item itemvalue="Python tests.pytest for test.test_ewf" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="27d3f839-4988-4150-8d57-65a51df6ca8b" name="Default Changelist" comment="" />
-      <created>1610550159313</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1610550159313</updated>
-    </task>
-    <task id="LOCAL-00001" summary="message">
-      <created>1610550486610</created>
+    <task id="LOCAL-00001" summary="add env">
+      <created>1610896003310</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1610550486610</updated>
+      <updated>1610896003310</updated>
     </task>
-    <task id="LOCAL-00002" summary="message">
-      <created>1610821163418</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1610821163423</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="message" />
-    <option name="LAST_COMMIT_MESSAGE" value="message" />
+    <MESSAGE value="add env" />
+    <option name="LAST_COMMIT_MESSAGE" value="add env" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610793324337">
-      <screen x="0" y="25" width="1680" height="961" />
+    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610897079712">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="304" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.25.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1610793324337" />
-    <state x="424" y="82" key="CommitChangelistDialog2" timestamp="1610821163129">
-      <screen x="0" y="25" width="1680" height="959" />
+    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897079712" />
+    <state x="424" y="77" key="CommitChangelistDialog2" timestamp="1610896003231">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="424" y="82" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1610550486460" />
-    <state x="424" y="82" key="CommitChangelistDialog2/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610821163129" />
-    <state width="1659" height="313" key="GridCell.Tab.0.bottom" timestamp="1610878923914">
-      <screen x="0" y="25" width="1680" height="960" />
+    <state x="424" y="77" key="CommitChangelistDialog2/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610896003231" />
+    <state width="1659" height="292" key="GridCell.Tab.0.bottom" timestamp="1610897114441">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="293" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610820722477" />
-    <state width="1659" height="313" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610878923914" />
-    <state width="1659" height="293" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1610816814520" />
-    <state width="1659" height="313" key="GridCell.Tab.0.center" timestamp="1610878923913">
-      <screen x="0" y="25" width="1680" height="960" />
+    <state width="1659" height="292" key="GridCell.Tab.0.bottom/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114441" />
+    <state width="1659" height="292" key="GridCell.Tab.0.center" timestamp="1610897114441">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="293" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610820722476" />
-    <state width="1659" height="313" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610878923913" />
-    <state width="1659" height="293" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1610816814519" />
-    <state width="1659" height="313" key="GridCell.Tab.0.left" timestamp="1610878923912">
-      <screen x="0" y="25" width="1680" height="960" />
+    <state width="1659" height="292" key="GridCell.Tab.0.center/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114441" />
+    <state width="1659" height="292" key="GridCell.Tab.0.left" timestamp="1610897114440">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="293" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610820722475" />
-    <state width="1659" height="313" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610878923912" />
-    <state width="1659" height="293" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1610816814519" />
-    <state width="1659" height="313" key="GridCell.Tab.0.right" timestamp="1610878923913">
-      <screen x="0" y="25" width="1680" height="960" />
+    <state width="1659" height="292" key="GridCell.Tab.0.left/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114440" />
+    <state width="1659" height="292" key="GridCell.Tab.0.right" timestamp="1610897114441">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="293" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610820722476" />
-    <state width="1659" height="313" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610878923913" />
-    <state width="1659" height="293" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1610816814520" />
-    <state width="1659" height="313" key="GridCell.Tab.1.bottom" timestamp="1610878923915">
-      <screen x="0" y="25" width="1680" height="960" />
+    <state width="1659" height="292" key="GridCell.Tab.0.right/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897114441" />
+    <state x="349" y="140" key="SettingsEditor" timestamp="1610897167162">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="313" key="GridCell.Tab.1.bottom/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610817106366" />
-    <state width="1659" height="313" key="GridCell.Tab.1.bottom/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610878923915" />
-    <state width="1659" height="313" key="GridCell.Tab.1.center" timestamp="1610878923914">
-      <screen x="0" y="25" width="1680" height="960" />
+    <state x="349" y="140" key="SettingsEditor/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610897167162" />
+    <state x="440" y="241" key="Vcs.Push.Dialog.v2" timestamp="1610896005186">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="313" key="GridCell.Tab.1.center/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610817106365" />
-    <state width="1659" height="313" key="GridCell.Tab.1.center/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610878923914" />
-    <state width="1659" height="313" key="GridCell.Tab.1.left" timestamp="1610878923914">
-      <screen x="0" y="25" width="1680" height="960" />
+    <state x="440" y="241" key="Vcs.Push.Dialog.v2/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610896005186" />
+    <state x="632" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610896240496">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1659" height="313" key="GridCell.Tab.1.left/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610817106365" />
-    <state width="1659" height="313" key="GridCell.Tab.1.left/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610878923914" />
-    <state width="1659" height="313" key="GridCell.Tab.1.right" timestamp="1610878923914">
-      <screen x="0" y="25" width="1680" height="960" />
-    </state>
-    <state width="1659" height="313" key="GridCell.Tab.1.right/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610817106366" />
-    <state width="1659" height="313" key="GridCell.Tab.1.right/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610878923914" />
-    <state x="349" y="137" key="SettingsEditor" timestamp="1610793551222">
-      <screen x="0" y="25" width="1680" height="961" />
-    </state>
-    <state x="349" y="137" key="SettingsEditor/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610792781808" />
-    <state x="349" y="137" key="SettingsEditor/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610792266438" />
-    <state x="349" y="137" key="SettingsEditor/1680.25.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1610793551222" />
-    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1610821169560">
-      <screen x="0" y="25" width="1680" height="959" />
-    </state>
-    <state x="440" y="238" key="Vcs.Push.Dialog.v2/0.25.1680.954@0.25.1680.954" timestamp="1610550383368" />
-    <state x="440" y="239" key="Vcs.Push.Dialog.v2/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610821169560" />
-    <state x="632" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610550367449">
-      <screen x="0" y="25" width="1680" height="954" />
-    </state>
-    <state x="632" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.954@0.25.1680.954" timestamp="1610550367449" />
-    <state x="398" y="234" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610878920528">
-      <screen x="0" y="25" width="1680" height="960" />
-    </state>
-    <state x="398" y="234" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1680.25.1920.1055/0.25.1680.960@0.25.1680.960" timestamp="1610878920528" />
-    <state x="541" y="256" width="597" height="490" key="find.popup" timestamp="1610558986408">
-      <screen x="0" y="25" width="1680" height="956" />
-    </state>
-    <state x="541" y="256" width="597" height="490" key="find.popup/0.25.1680.956@0.25.1680.956" timestamp="1610558986408" />
-    <state x="593" y="219" key="git4idea.branch.GitSmartOperationDialog" timestamp="1610885253076">
-      <screen x="0" y="25" width="1680" height="959" />
-    </state>
-    <state x="593" y="219" key="git4idea.branch.GitSmartOperationDialog/1680.25.1920.1055/0.25.1680.959@0.25.1680.959" timestamp="1610885253076" />
+    <state x="632" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.25.1920.991/0.25.1680.1025@0.25.1680.1025" timestamp="1610896240496" />
   </component>
 </project>
