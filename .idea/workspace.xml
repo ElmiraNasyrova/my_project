@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a31a53b-1858-445f-9394-9b840f25ddb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dz_3/input/books.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz_3/input/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz_3/output/example_books_less_then_users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz_3/output/example_books_more_then_users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz_3/read_and_write.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,10 @@
   </component>
   <component name="TaskManager">
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add task resolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="add task resolution" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610893794431">
