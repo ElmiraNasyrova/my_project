@@ -7,7 +7,7 @@ R = 18
 
 def test_get_name():
     circle = Circle(R)
-    assert circle.get_name().lower() == 'triangle'
+    assert circle.get_name().lower() == 'circle'
 
 
 def test_get_angels():
