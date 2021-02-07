@@ -9,6 +9,18 @@ class BaseFigure:
         self.perimeter = None,
         self.angles = None
 
+    def get_name(self):
+        return self.name
+
+    def get_angles(self):
+        return self.angles
+
+    def get_perimeter(self):
+        return self.perimeter
+
+    def get_area(self):
+        return self.area
+
     @abstractmethod
     def add_area(self, add_figure):
         return NotImplemented
