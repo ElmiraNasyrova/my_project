@@ -23,15 +23,13 @@ def find_files(file_name):
     return files_array
 
 
-def grep(file_name, method="[^ ]"):
+def grep(file_name, method="'[^ ]'"):
     result = 0
     try:
-        result = int(check_output(f'grep -i {method} {file_name} -c', shell=True))
-        if method == "[^ ]":
-            method = 'all'
-        else:
-            method=method.replace('" ', '')
-        print(f'Выполнено {method}-запросов: {result}')
+        result = int(check_output(f'grep {method} -c {file_name}', shell=True))
+        if method == "'[^ ]'":
+            method = 'всего '
+        print(f'Выполнено {method}запросов: {result}')
     except:
         pass
 
@@ -92,11 +90,11 @@ def search_most_long_request(file_name):
 
 def get_data(file_for_get_data):
     requests_quantity = grep(file_for_get_data)
-    get = grep(file_for_get_data, '"GET ')
-    post = grep(file_for_get_data, '"POST ')
-    put = grep(file_for_get_data, '"PUT ')
-    delete = grep(file_for_get_data, '"DELETE ')
-    head = grep(file_for_get_data, '"HEAD ')
+    get = grep(file_for_get_data, 'GET ')
+    post = grep(file_for_get_data, 'POST ')
+    put = grep(file_for_get_data, 'PUT ')
+    delete = grep(file_for_get_data, 'DELETE ')
+    head = grep(file_for_get_data, 'HEAD ')
     top_three_ip = search_top_ip(file_for_get_data)
     top_three_long_req = search_most_long_request(file_for_get_data)
 
