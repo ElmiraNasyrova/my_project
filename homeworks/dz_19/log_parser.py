@@ -37,6 +37,7 @@ def grep(file_name, method="'[^ ]'"):
 
 
 def search_top_ip(file_name):
+    top = 3
     dict_ip = defaultdict(int)
 
     with open(file_name) as file:
@@ -48,44 +49,34 @@ def search_top_ip(file_name):
 
     sorted_ip = sorted(dict_ip.items(), key=lambda x: x[1], reverse=True)
 
-    print("Самые частые запросы от:")
-
-    top = 3
-    ip_arr = dict()
-
     if len(sorted_ip) < top:
         top = len(sorted_ip)
 
-    for k in range(top):
-        print(sorted_ip[k])
-        ip_arr[k+1] = sorted_ip[k]
+    print("Самые частые запросы от:")
+    for i in range(top): print(sorted_ip[i])
 
-    return ip_arr
+    return sorted_ip[0:top]
 
 
 def search_most_long_request(file_name):
-    dict_time = dict()
+    time_array = []
+    top = 3
+
     with open(file_name) as f:
         for line in f:
             line_split = line.split()
-            time = line_split[len(line_split)-1]
-            dict_time[time] = line
+            time = line_split[len(line_split) - 1]
+            time_array.append((int(time), line))
 
-    sorted_time = sorted(dict_time.items(), key=lambda x: x[1], reverse=True)
-
-    print("Самый долгий запрос длится:")
-
-    top = 3
-    time_arr = dict()
+    sorted_time = sorted(time_array, key=lambda x: x[0], reverse=True)
 
     if len(sorted_time) < top:
         top = len(sorted_time)
 
-    for k in range(top):
-        print(sorted_time[k])
-        time_arr[k+1] = sorted_time[k]
+    print("Самые долгие запросы:")
+    for i in range(top): print(sorted_time[i])
 
-    return time_arr
+    return sorted_time[0:top]
 
 
 def get_data(file_for_get_data):
@@ -122,4 +113,3 @@ if __name__ == "__main__":
             get_data(file)
     else:
         get_data(args.path)
-
